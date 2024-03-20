@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T11:10:00.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TVvJrGVC6Vv1LBVog9IJ" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T11:15:56.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YE4jccl3t97uQ-nAY7FB" version="23.1.8" type="github">
   <diagram name="Page-1" id="Ww9dQTcz0A_Br_yqYm_F">
     <mxGraphModel dx="1354" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
           </mxCell>
         </object>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-7" value="Online Food Ordering System&#x9;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="310" y="-640" width="100" height="300" as="geometry" />
+          <mxGeometry x="310" y="-640" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-8" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="460" y="-640" width="100" height="300" as="geometry" />
+          <mxGeometry x="460" y="-640" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-9" value="Ordering Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="600" y="-640" width="100" height="300" as="geometry" />
+          <mxGeometry x="600" y="-640" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-10" value="Customers" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-640" width="40" height="300" as="geometry" />
+          <mxGeometry x="210" y="-640" width="40" height="440" as="geometry" />
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-11" value="Request For Menu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -31,12 +31,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="-560" as="sourcePoint" />
             <mxPoint x="490" y="-560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yuvhSKcG6fzL9bSFhAuM-14" value="Getting Menu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;entryX=0.75;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yuvhSKcG6fzL9bSFhAuM-8">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="-520" as="sourcePoint" />
-            <mxPoint x="230" y="-519.9000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-18" value="Select Item" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
@@ -62,6 +56,9 @@
             <mxPoint x="359.5" y="-440" as="sourcePoint" />
             <mxPoint x="229.5" y="-440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yuvhSKcG6fzL9bSFhAuM-26" value="alt" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-420" width="460" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
