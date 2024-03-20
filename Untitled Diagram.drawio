@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T11:40:43.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xcasSsn5iwnh6Vl7Fj40" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T11:41:16.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DcwqFGVFXxrEEvoMX0fn" version="23.1.8" type="github">
   <diagram name="Page-1" id="Ww9dQTcz0A_Br_yqYm_F">
     <mxGraphModel dx="1354" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,8 +53,20 @@
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-100" value="[if yes]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="yuvhSKcG6fzL9bSFhAuM-55">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="80" y="349.5" as="sourcePoint" />
-            <mxPoint x="190" y="349.5" as="targetPoint" />
+            <mxPoint x="80" y="360" as="sourcePoint" />
+            <mxPoint x="190" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuvhSKcG6fzL9bSFhAuM-102" value="Delevery Details" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;" edge="1" parent="yuvhSKcG6fzL9bSFhAuM-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="434.5" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuvhSKcG6fzL9bSFhAuM-101" value="Processing" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="yuvhSKcG6fzL9bSFhAuM-55">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yuvhSKcG6fzL9bSFhAuM-72" value="Online Food Ordering System&#x9;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -112,18 +124,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="630" y="-380" as="sourcePoint" />
             <mxPoint x="279.5" y="-380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yuvhSKcG6fzL9bSFhAuM-101" value="Processing" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="390" y="-510.5" as="sourcePoint" />
-            <mxPoint x="630" y="-510.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yuvhSKcG6fzL9bSFhAuM-102" value="Delevery Details" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;" edge="1" parent="1" source="yuvhSKcG6fzL9bSFhAuM-74">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="505" y="-490" as="sourcePoint" />
-            <mxPoint x="275" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
